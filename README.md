@@ -1,6 +1,6 @@
 # Portfoleo Pessoal 👨‍🎓
 
-Projeto de Portfoleo pessoal realizado durante o curso de especialização em analista de testes de software
+Projeto de Portfoleo pessoal realizado durante o curso de especialização Analista de Testes de Software
 pela Ultima School.
 Um local para adicionar futuros projetos pessoais.
 
