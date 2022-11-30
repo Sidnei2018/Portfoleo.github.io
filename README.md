@@ -16,4 +16,4 @@ Um local para adicionar futuros projetos pessoais.
 ![Sobre](https://user-images.githubusercontent.com/28484134/190692930-c0b300d3-4d32-430c-a9e4-424dfb13d515.jpg)
 
 
-![Projetos](https://user-images.githubusercontent.com/28484134/190692952-c8932b24-aa56-4e50-9754-e50df6d6f5a5.jpg)
+![Projetos](https://user-images.githubusercontent.com/28484134/200049379-29523bc1-3985-4e7e-8601-298fbb927d61.jpg)
