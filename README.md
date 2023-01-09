@@ -9,9 +9,8 @@ Um local para adicionar futuros projetos pessoais.
 3 - Sessão com cards utilizando ícones e acesso a outros projetos dentro do github;🔓<br>
 4 - Rodapé com botões de acesso aos perfis do linkedin e github🎯<br>
 
+![home](https://user-images.githubusercontent.com/28484134/211421185-44bcfbc6-5d89-4e5c-baaa-b1e05fbe3d52.jpg)<br>
 
-![Home](https://user-images.githubusercontent.com/28484134/190692897-3eba249f-a32b-408e-b596-82ba6055dbf4.jpg)<br>
-
-![sobre](https://user-images.githubusercontent.com/28484134/211420880-38366505-390c-45f0-bb0d-c3ae78ece772.jpg)<br>
+![sobre](https://user-images.githubusercontent.com/28484134/211421217-1b5468c3-6c5b-49b6-88d2-9af7226579c4.jpg)<br>
 
 ![2](https://user-images.githubusercontent.com/28484134/211420627-9ae8c583-d3c4-495b-a23b-bcc9b7d5be87.jpg)<br>
