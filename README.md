@@ -10,10 +10,8 @@ Um local para adicionar futuros projetos pessoais.
 4 - Rodapé com botões de acesso aos perfis do linkedin e github🎯<br>
 
 
-![Home](https://user-images.githubusercontent.com/28484134/190692897-3eba249f-a32b-408e-b596-82ba6055dbf4.jpg)
+![Home](https://user-images.githubusercontent.com/28484134/190692897-3eba249f-a32b-408e-b596-82ba6055dbf4.jpg)<br>
 
+![sobre](https://user-images.githubusercontent.com/28484134/211420880-38366505-390c-45f0-bb0d-c3ae78ece772.jpg)<br>
 
-![Sobre](https://user-images.githubusercontent.com/28484134/190692930-c0b300d3-4d32-430c-a9e4-424dfb13d515.jpg)
-
-
-![Projetos](https://user-images.githubusercontent.com/28484134/200049379-29523bc1-3985-4e7e-8601-298fbb927d61.jpg)
+![2](https://user-images.githubusercontent.com/28484134/211420627-9ae8c583-d3c4-495b-a23b-bcc9b7d5be87.jpg)<br>
