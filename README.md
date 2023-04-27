@@ -2,7 +2,7 @@
 
 Projeto de Portfoleo pessoal realizado durante o curso de especialização Analista de Testes de Software
 pela Ultima School.
-Um local para adicionar futuros projetos pessoais.
+Um local para adicionar futuros projetos pessoais!
 
 1 - Tela Home com menú de acesso e um campo para email de contato;📩<br>
 2 - Sessão Sobre com uma imagem e textos;📸<br>
